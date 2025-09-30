@@ -2,11 +2,11 @@ Manage mechatronic projects
 
 WASTE MANAGEMENT AND SORTING AUTONOMOUS SYSTEM
 
-Name of Team Member	Roles	Reason for Allocating the Roles
+NAME OF TEAM MEMBERS AND THEIR ROLES
 
-Jacob mutiso	mechanical and trello management 	Familiar with mechanical design and project management.
+Jacob mutiso	-mechanical and trello management :	Familiar with mechanical design and project management.
 
-Patrick gichuke	 electrical design and simulation	Familiar with electrical simulation design tools.
+Patrick gichuke	 -electrical design and simulation	:Familiar with electrical simulation design tools.
 		
 
 Technologies
